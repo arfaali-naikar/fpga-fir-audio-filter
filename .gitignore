@@ -1,0 +1,13 @@
+# GHDL simulation artifacts
+work/
+*.o
+*.cf
+*.vcd
+*.ghw
+
+# Quartus build artifacts (once a .qpf/.qsf is added)
+output_files/
+db/
+incremental_db/
+*.qws
+greybox_tmp/
